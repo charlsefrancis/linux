@@ -1,0 +1,5 @@
+fileName = 'demo.text'
+WRITE = 'w'
+APPEND = 'a'
+
+file = open(fileName, mode = WRITE)
